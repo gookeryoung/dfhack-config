@@ -3,7 +3,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1601,
+		"id" : 319,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -34,7 +34,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1602,
+		"id" : 320,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -65,7 +65,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1603,
+		"id" : 321,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -96,7 +96,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1604,
+		"id" : 322,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -127,7 +127,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1605,
+		"id" : 323,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -158,7 +158,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1606,
+		"id" : 324,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -189,7 +189,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1607,
+		"id" : 325,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -220,7 +220,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1608,
+		"id" : 326,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -251,7 +251,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1609,
+		"id" : 327,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -282,7 +282,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1610,
+		"id" : 328,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -313,7 +313,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1611,
+		"id" : 329,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -344,7 +344,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1612,
+		"id" : 330,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -375,7 +375,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1613,
+		"id" : 331,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -406,7 +406,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1614,
+		"id" : 332,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -437,7 +437,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1615,
+		"id" : 333,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -468,7 +468,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1616,
+		"id" : 334,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -499,7 +499,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1617,
+		"id" : 335,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -536,7 +536,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1618,
+		"id" : 336,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -579,7 +579,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1619,
+		"id" : 337,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -622,7 +622,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1620,
+		"id" : 338,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -659,7 +659,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1621,
+		"id" : 339,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -696,7 +696,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1622,
+		"id" : 340,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -745,7 +745,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1623,
+		"id" : 341,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -782,7 +782,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1624,
+		"id" : 342,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -819,7 +819,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1625,
+		"id" : 343,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -862,7 +862,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1626,
+		"id" : 344,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -905,7 +905,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1627,
+		"id" : 345,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -932,7 +932,7 @@
 				"condition" : "AtMost",
 				"item_type" : "BAR",
 				"material" : "INORGANIC:PIG_IRON",
-				"value" : 10
+				"value" : 20
 			}
 		],
 		"job" : "CustomReaction",
@@ -942,7 +942,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1628,
+		"id" : 346,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -979,7 +979,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1629,
+		"id" : 347,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -1016,7 +1016,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1630,
+		"id" : 348,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -1053,7 +1053,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 1631,
+		"id" : 349,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -1086,17 +1086,17 @@
 				"condition" : "AtMost",
 				"item_type" : "BAR",
 				"material" : "INORGANIC:STEEL",
-				"value" : 10
+				"value" : 100
 			}
 		],
 		"job" : "CustomReaction",
 		"reaction" : "STEEL_MAKING"
 	},
 	{
-		"amount_left" : 10,
-		"amount_total" : 10,
+		"amount_left" : 2,
+		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 1632,
+		"id" : 350,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1114,5 +1114,69 @@
 			}
 		],
 		"job" : "MakeCharcoal"
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 351,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "COAL:COKE",
+				"value" : 100
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:COAL_BITUMINOUS",
+				"reaction_id" : "BITUMINOUS_COAL_TO_COKE",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "BITUMINOUS_COAL_TO_COKE"
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 352,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "COAL:COKE",
+				"value" : 100
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:LIGNITE",
+				"reaction_id" : "LIGNITE_TO_COKE",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "LIGNITE_TO_COKE"
 	}
 ]
