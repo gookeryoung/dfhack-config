@@ -1,0 +1,7 @@
+# This file was once used by gui/control-panel
+# If you are on Steam, you can delete this file manually
+# by starting DFHack in the Steam client, then deleting
+# this file while DF is running. Otherwise Steam Cloud will
+# restore the file when you next run DFHack.
+#
+# If you're not on Steam, you can delete this file at any time.

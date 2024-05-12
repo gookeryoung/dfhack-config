@@ -1,0 +1,50 @@
+{
+	"commands": {
+		"autobutcher": {
+			"autostart": true
+		},
+		"autobutcher target 10 10 14 2 BIRD_CHICKEN": {
+			"autostart": true
+		},
+		"autobutcher target 10 10 14 2 BIRD_GOOSE": {
+			"autostart": true
+		},
+		"autobutcher target 10 10 14 2 BIRD_PEAFOWL_BLUE": {
+			"autostart": true
+		},
+		"autobutcher target 10 10 14 2 BIRD_TURKEY": {
+			"autostart": true
+		},
+		"autofarm": {
+			"autostart": true
+		},
+		"automilk": {
+			"autostart": true
+		},
+		"autoshear": {
+			"autostart": true
+		},
+		"autoslab": {
+			"autostart": true
+		},
+		"nestboxes": {
+			"autostart": true
+		},
+		"orders-sort": {
+			"autostart": true
+		},
+		"prioritize": {
+			"autostart": true
+		},
+		"seedwatch": {
+			"autostart": true
+		},
+		"suspendmanager": {
+			"autostart": true
+		},
+		"tailor": {
+			"autostart": true
+		}
+	},
+	"preferences": []
+}

@@ -1,0 +1,90 @@
+{
+	"burrow-remove": {
+		"enabled": true,
+		"id": "burrow-remove"
+	},
+	"convict": {
+		"enabled": true,
+		"id": "convict"
+	},
+	"depot-remove": {
+		"enabled": true,
+		"id": "depot-remove"
+	},
+	"diplomacy-request": {
+		"enabled": true,
+		"id": "diplomacy-request"
+	},
+	"embark-site-finder": {
+		"enabled": true,
+		"id": "embark-site-finder"
+	},
+	"haul-delete-route": {
+		"enabled": true,
+		"id": "haul-delete-route"
+	},
+	"haul-delete-stop": {
+		"enabled": true,
+		"id": "haul-delete-stop"
+	},
+	"hotkey-reset": {
+		"enabled": true,
+		"id": "hotkey-reset"
+	},
+	"order-remove": {
+		"enabled": true,
+		"id": "order-remove"
+	},
+	"squad-disband": {
+		"enabled": true,
+		"id": "squad-disband"
+	},
+	"stockpile-remove": {
+		"enabled": true,
+		"id": "stockpile-remove"
+	},
+	"trade-cancel": {
+		"enabled": true,
+		"id": "trade-cancel"
+	},
+	"trade-confirm-trade": {
+		"enabled": true,
+		"id": "trade-confirm-trade"
+	},
+	"trade-mark-all-fort": {
+		"enabled": true,
+		"id": "trade-mark-all-fort"
+	},
+	"trade-mark-all-merchant": {
+		"enabled": true,
+		"id": "trade-mark-all-merchant"
+	},
+	"trade-offer": {
+		"enabled": true,
+		"id": "trade-offer"
+	},
+	"trade-seize": {
+		"enabled": true,
+		"id": "trade-seize"
+	},
+	"trade-unmark-all-fort": {
+		"enabled": true,
+		"id": "trade-unmark-all-fort"
+	},
+	"trade-unmark-all-merchant": {
+		"enabled": true,
+		"id": "trade-unmark-all-merchant"
+	},
+	"uniform-delete": {
+		"enabled": true,
+		"id": "uniform-delete"
+	},
+	"uniform-discard-changes": {
+		"enabled": true,
+		"id": "uniform-discard-changes"
+	},
+	"zone-remove": {
+		"enabled": true,
+		"id": "zone-remove"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"agitated_count": {
+		"enabled": true
+	},
+	"hostile_count": {
+		"enabled": true
+	},
+	"invader_count": {
+		"enabled": true
+	},
+	"mandates_expiring": {
+		"enabled": true
+	},
+	"moody_status": {
+		"enabled": true
+	},
+	"petitions_agreed": {
+		"enabled": true
+	},
+	"traders_ready": {
+		"enabled": true
+	},
+	"warn_nuisance": {
+		"enabled": true
+	},
+	"warn_starving": {
+		"enabled": true
+	},
+	"warn_stranded": {
+		"enabled": true
+	},
+	"wildlife": {
+		"enabled": false
+	}
+}

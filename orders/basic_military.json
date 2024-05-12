@@ -1,0 +1,408 @@
+[
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "OneTime",
+		"id" : 151,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_subtype" : "ITEM_WEAPON_CROSSBOW",
+		"job" : "MakeWeapon",
+		"material_category" : 
+		[
+			"bone"
+		]
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 161,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "CAGE",
+				"value" : 5
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"job" : "MakeCage",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 147,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_SHIELD_SHIELD",
+				"item_type" : "SHIELD",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_SHIELD_SHIELD",
+		"job" : "MakeShield",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 148,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_HELM_HELM",
+				"item_type" : "HELM",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"unrotten",
+					"shell",
+					"body_part"
+				],
+				"value" : 4
+			}
+		],
+		"item_subtype" : "ITEM_HELM_HELM",
+		"job" : "MakeHelm",
+		"material_category" : 
+		[
+			"shell"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 150,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_GLOVES_GAUNTLETS",
+				"item_type" : "GLOVES",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"unrotten",
+					"shell",
+					"body_part"
+				],
+				"value" : 4
+			}
+		],
+		"item_subtype" : "ITEM_GLOVES_GAUNTLETS",
+		"job" : "MakeGloves",
+		"material_category" : 
+		[
+			"shell"
+		]
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 149,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_PANTS_LEGGINGS",
+				"item_type" : "PANTS",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"unrotten",
+					"shell",
+					"body_part"
+				],
+				"value" : 4
+			}
+		],
+		"item_subtype" : "ITEM_PANTS_LEGGINGS",
+		"job" : "MakePants",
+		"material_category" : 
+		[
+			"shell"
+		]
+	},
+	{
+		"amount_left" : 50,
+		"amount_total" : 50,
+		"frequency" : "Daily",
+		"id" : 152,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_AMMO_BOLTS",
+				"item_type" : "AMMO",
+				"value" : 200
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"unrotten",
+					"bone",
+					"body_part"
+				],
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_AMMO_BOLTS",
+		"job" : "MakeAmmo",
+		"material_category" : 
+		[
+			"bone"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 153,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "QUIVER",
+				"value" : 4
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "SKIN_TANNED",
+				"value" : 4
+			}
+		],
+		"job" : "MakeQuiver",
+		"material_category" : 
+		[
+			"leather"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 154,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SPLINT",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"job" : "ConstructSplint",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 155,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "CRUTCH",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"job" : "ConstructCrutch",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 156,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "FLASK",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "SKIN_TANNED",
+				"value" : 4
+			}
+		],
+		"job" : "MakeFlask",
+		"material_category" : 
+		[
+			"leather"
+		]
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 157,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BACKPACK",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "SKIN_TANNED",
+				"value" : 4
+			}
+		],
+		"job" : "MakeBackpack",
+		"material_category" : 
+		[
+			"leather"
+		]
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 158,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "WEAPONRACK",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"job" : "ConstructWeaponRack",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 159,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "ARMORSTAND",
+				"value" : 2
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"job" : "ConstructArmorStand",
+		"material_category" : 
+		[
+			"wood"
+		]
+	}
+]

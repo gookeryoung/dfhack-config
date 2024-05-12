@@ -1,0 +1,606 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 506,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BLOCKS",
+				"value" : 20
+			}
+		],
+		"job" : "ConstructBlocks",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 507,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "COFFIN",
+				"value" : 2
+			}
+		],
+		"job" : "ConstructCoffin",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 508,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "DOOR",
+				"value" : 3
+			}
+		],
+		"job" : "ConstructDoor",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 509,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "FLOODGATE",
+				"value" : 2
+			}
+		],
+		"job" : "ConstructFloodgate",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 510,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "GRATE",
+				"value" : 2
+			}
+		],
+		"job" : "ConstructGrate",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 511,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "HATCH_COVER",
+				"value" : 3
+			}
+		],
+		"job" : "ConstructHatchCover",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 512,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "SLAB",
+				"value" : 2
+			}
+		],
+		"job" : "ConstructSlab",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 513,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "STATUE",
+				"value" : 2
+			}
+		],
+		"job" : "ConstructStatue",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 514,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "TABLE",
+				"value" : 2
+			}
+		],
+		"job" : "ConstructTable",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 515,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "CHAIR",
+				"value" : 2
+			}
+		],
+		"job" : "ConstructThrone",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 516,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_subtype" : "ITEM_TOOL_ALTAR",
+				"item_type" : "TOOL",
+				"value" : 2
+			}
+		],
+		"item_subtype" : "ITEM_TOOL_ALTAR",
+		"job" : "MakeTool",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 517,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_subtype" : "ITEM_TOOL_BOOKCASE",
+				"item_type" : "TOOL",
+				"value" : 2
+			}
+		],
+		"item_subtype" : "ITEM_TOOL_BOOKCASE",
+		"job" : "MakeTool",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 518,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_subtype" : "ITEM_TOOL_JUG",
+				"item_type" : "TOOL",
+				"material" : "INORGANIC",
+				"value" : 4
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_TOOL_JUG",
+		"job" : "MakeTool",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 519,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "GOBLET",
+				"material" : "INORGANIC",
+				"value" : 4
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"job" : "MakeGoblet",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 520,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_subtype" : "ITEM_TOOL_LARGE_POT",
+				"item_type" : "TOOL",
+				"material" : "INORGANIC",
+				"value" : 4
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_TOOL_LARGE_POT",
+		"job" : "MakeTool",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 521,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "CHAIR",
+				"material" : "INORGANIC",
+				"value" : 4
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"job" : "ConstructThrone",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 522,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "POWDER_MISC",
+				"material" : "INORGANIC:PLASTER",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "MAKE_PLASTER_POWDER",
+				"value" : 5
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BOULDER",
+				"reaction_class" : "GYPSUM",
+				"reaction_id" : "MAKE_PLASTER_POWDER",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "MAKE_PLASTER_POWDER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 523,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "POWDER_MISC",
+				"material" : "INORGANIC:QUICKLIME",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BOULDER",
+				"reaction_class" : "CALCIUM_CARBONATE",
+				"reaction_id" : "MAKE_QUICKLIME",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "MAKE_QUICKLIME",
+				"value" : 5
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "MAKE_QUICKLIME"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 524,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "PEARLASH",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "POTASH",
+				"reaction_id" : "MAKE_PEARLASH",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "MAKE_PEARLASH"
+	}
+]

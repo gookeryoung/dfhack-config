@@ -1,0 +1,1118 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1601,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:BISMUTHINITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BISMUTH",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:BISMUTHINITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1602,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:CASSITERITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:TIN",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:CASSITERITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1603,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:GALENA",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:LEAD",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:GALENA"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1604,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:GARNIERITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:NICKEL",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:GARNIERITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1605,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:HEMATITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:IRON",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:HEMATITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1606,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:HORN_SILVER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:SILVER",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:HORN_SILVER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1607,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:LIMONITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:IRON",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:LIMONITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1608,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:MAGNETITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:IRON",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:MAGNETITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1609,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:MALACHITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:MALACHITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1610,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:NATIVE_ALUMINUM",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:ALUMINUM",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:NATIVE_ALUMINUM"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1611,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:NATIVE_COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:NATIVE_COPPER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1612,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:NATIVE_GOLD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:GOLD",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:NATIVE_GOLD"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1613,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:NATIVE_SILVER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:SILVER",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:NATIVE_SILVER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1614,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:NATIVE_PLATINUM",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:PLATINUM",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:NATIVE_PLATINUM"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1615,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:SPHALERITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:ZINC",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:SPHALERITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1616,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC:TETRAHEDRITE",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 10
+			}
+		],
+		"job" : "SmeltOre",
+		"material" : "INORGANIC:TETRAHEDRITE"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1617,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"bearing" : "SILVER",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"bearing" : "COPPER",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BILLON",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "BILLON_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1618,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:TIN",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BISMUTH",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BISMUTH_BRONZE",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "BISMUTH_BRONZE_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1619,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:SILVER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:GOLD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BLACK_BRONZE",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "BLACK_BRONZE_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1620,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"bearing" : "ZINC",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"bearing" : "COPPER",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BRASS",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "BRASS_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1621,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"bearing" : "TIN",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"bearing" : "COPPER",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BRONZE",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "BRONZE_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1622,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:TIN",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:BRONZE",
+				"value" : 10
+			},
+			{
+				"bearing" : "TIN",
+				"condition" : "AtMost",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"bearing" : "COPPER",
+				"condition" : "AtMost",
+				"item_type" : "BOULDER",
+				"value" : 5
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "BRONZE_MAKING2"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1623,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"bearing" : "SILVER",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"bearing" : "GOLD",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:ELECTRUM",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "ELECTRUM_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1624,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"bearing" : "TIN",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 10
+			},
+			{
+				"bearing" : "COPPER",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 10
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:PEWTER_FINE",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "PEWTER_FINE_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1625,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:TIN",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:LEAD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:PEWTER_LAY",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "PEWTER_LAY_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1626,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:NICKEL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:ZINC",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:NICKEL_SILVER",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "NICKEL_SILVER_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1627,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:IRON",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"reaction_class" : "FLUX",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:PIG_IRON",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "PIG_IRON_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1628,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:GOLD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:ROSE_GOLD",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "ROSE_GOLD_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1629,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:SILVER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:COPPER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:STERLING_SILVER",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "STERLING_SILVER_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1630,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"bearing" : "TIN",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"bearing" : "COPPER",
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:PEWTER_TRIFLE",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "PEWTER_TRIFLE_MAKING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 1631,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:IRON",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:PIG_IRON",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BOULDER",
+				"reaction_class" : "FLUX",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "AtMost",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:STEEL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "STEEL_MAKING"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 1632,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 100
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"job" : "MakeCharcoal"
+	}
+]
