@@ -15,16 +15,37 @@
 		"autobutcher target 10 10 14 2 BIRD_TURKEY": {
 			"autostart": true
 		},
+		"autochop": {
+			"autostart": true
+		},
+		"autoclothing": {
+			"autostart": true
+		},
 		"autofarm": {
 			"autostart": true
 		},
+		"autofarm threshold 150 grass_tail_pig": {
+			"autostart": true
+		},
+		"autofish": {
+			"autostart": true
+		},
 		"automilk": {
+			"autostart": true
+		},
+		"autonestbox": {
 			"autostart": true
 		},
 		"autoshear": {
 			"autostart": true
 		},
 		"autoslab": {
+			"autostart": true
+		},
+		"ban-cooking all": {
+			"autostart": true
+		},
+		"hide-tutorials": {
 			"autostart": true
 		},
 		"nestboxes": {

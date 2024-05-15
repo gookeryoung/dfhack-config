@@ -32,7 +32,8 @@
 	"gui/workflow": 3,
 	"logistics": 2,
 	"remove": 4,
-	"showmood": 51,
+	"showmood": 52,
 	"suspendmanager": 3,
-	"unsuspend": 1
+	"unsuspend": 1,
+	"work-now": 3
 }
