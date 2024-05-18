@@ -1,5 +1,8 @@
 {
 	"commands": {
+		"agitation-rebalance": {
+			"autostart": true
+		},
 		"autobutcher": {
 			"autostart": true
 		},
@@ -45,25 +48,64 @@
 		"ban-cooking all": {
 			"autostart": true
 		},
+		"buildingplan set boulders false": {
+			"autostart": true
+		},
+		"buildingplan set logs false": {
+			"autostart": true
+		},
+		"cleanowned": {
+			"autostart": true
+		},
+		"combine": {
+			"autostart": true
+		},
+		"dwarfvet": {
+			"autostart": true
+		},
+		"fast-heat": {
+			"autostart": true
+		},
+		"fastdwarf": {
+			"autostart": true
+		},
+		"gui/settings-manager load-standing-orders": {
+			"autostart": true
+		},
+		"gui/settings-manager load-work-details": {
+			"autostart": true
+		},
+		"hermit": {
+			"autostart": true
+		},
 		"hide-tutorials": {
+			"autostart": true
+		},
+		"light-aquifers-only": {
+			"autostart": true
+		},
+		"logistics enable autoretrain": {
 			"autostart": true
 		},
 		"nestboxes": {
 			"autostart": true
 		},
-		"orders-sort": {
+		"orders-reevaluate": {
 			"autostart": true
 		},
-		"prioritize": {
+		"orders-sort": {
 			"autostart": true
 		},
 		"seedwatch": {
 			"autostart": true
 		},
-		"suspendmanager": {
+		"starvingdead": {
 			"autostart": true
 		},
 		"tailor": {
+			"autostart": true
+		},
+		"work-now": {
 			"autostart": true
 		}
 	},
