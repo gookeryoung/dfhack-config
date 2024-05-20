@@ -3,7 +3,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 442,
+		"id" : 398,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -33,7 +33,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 443,
+		"id" : 399,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -62,7 +62,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 444,
+		"id" : 400,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -91,7 +91,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 445,
+		"id" : 401,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -120,7 +120,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 446,
+		"id" : 402,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -149,7 +149,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 447,
+		"id" : 403,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -178,7 +178,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 448,
+		"id" : 404,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -207,7 +207,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 449,
+		"id" : 405,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -236,7 +236,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 450,
+		"id" : 406,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -265,7 +265,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 451,
+		"id" : 407,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -294,7 +294,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 452,
+		"id" : 408,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -325,7 +325,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 453,
+		"id" : 409,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -356,7 +356,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 454,
+		"id" : 410,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -392,7 +392,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 455,
+		"id" : 411,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -426,7 +426,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 456,
+		"id" : 412,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -462,7 +462,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 457,
+		"id" : 413,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -492,7 +492,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 458,
+		"id" : 414,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -534,7 +534,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 459,
+		"id" : 415,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -576,7 +576,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 460,
+		"id" : 416,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -603,5 +603,109 @@
 		],
 		"job" : "CustomReaction",
 		"reaction" : "MAKE_PEARLASH"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 417,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_subtype" : "ITEM_TOOL_NEST_BOX",
+				"item_type" : "TOOL",
+				"material" : "INORGANIC",
+				"value" : 5
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_TOOL_NEST_BOX",
+		"job" : "MakeTool",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 418,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_subtype" : "ITEM_TOOL_HIVE",
+				"item_type" : "TOOL",
+				"material" : "INORGANIC",
+				"value" : 5
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_TOOL_HIVE",
+		"job" : "MakeTool",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 419,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_TOOL_PEDESTAL",
+				"item_type" : "TOOL",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_TOOL_PEDESTAL",
+		"job" : "MakeTool",
+		"material" : "INORGANIC"
 	}
 ]

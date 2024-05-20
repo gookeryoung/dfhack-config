@@ -18,9 +18,6 @@
 		"autobutcher target 10 10 14 2 BIRD_TURKEY": {
 			"autostart": true
 		},
-		"autochop": {
-			"autostart": true
-		},
 		"autoclothing": {
 			"autostart": true
 		},
@@ -46,12 +43,6 @@
 			"autostart": true
 		},
 		"ban-cooking all": {
-			"autostart": true
-		},
-		"buildingplan set boulders false": {
-			"autostart": true
-		},
-		"buildingplan set logs false": {
 			"autostart": true
 		},
 		"cleanowned": {
