@@ -1,4 +1,30 @@
-#dig label(dig)
+#dig F1
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,mbj
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d
+#>
+#dig F2(For planting)
+mbd,mbd,mbd,mbd,mbd,mbd,mbd
+mbd,mbd,mbd,mbd,mbd,mbd,mbd
+mbd,mbd,mbd,mbd,mbd,mbd,mbd
+,,,,,,,mbd
+mbd,mbd,mbd,mbd,mbd,mbd,mbd,mbj,mbj,mbj
+mbd,mbd,mbd,mbd,mbd,mbd,mbd,mbj,mbj,mbj,,,,,,,,,,mbi
+mbd,mbd,mbd,mbd,mbd,mbd,mbd,mbj,mbj,mbj
+,,,,,,,mbd
+mbd,mbd,mbd,mbd,mbd,mbd,mbd
+mbd,mbd,mbd,mbd,mbd,mbd,mbd
+mbd,mbd,mbd,mbd,mbd,mbd,mbd
+#>
+#dig F3(For food)
 mbd,mbd,mbd,,,,,,,,,,mbd,mbd,mbd
 mbd,mbd,mbd,,,,,,,,,,mbd,mbd,mbd
 mbd,mbd,mbd,,,,,,,,,,mbd,mbd,mbd
