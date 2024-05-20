@@ -66,16 +66,10 @@
 		"fast-heat": {
 			"autostart": true
 		},
-		"fastdwarf": {
-			"autostart": true
-		},
 		"gui/settings-manager load-standing-orders": {
 			"autostart": true
 		},
 		"gui/settings-manager load-work-details": {
-			"autostart": true
-		},
-		"hermit": {
 			"autostart": true
 		},
 		"hide-tutorials": {
@@ -96,10 +90,16 @@
 		"orders-sort": {
 			"autostart": true
 		},
+		"prioritize": {
+			"autostart": true
+		},
 		"seedwatch": {
 			"autostart": true
 		},
 		"starvingdead": {
+			"autostart": true
+		},
+		"suspendmanager": {
 			"autostart": true
 		},
 		"tailor": {
