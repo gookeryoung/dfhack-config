@@ -3,7 +3,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 516,
+		"id" : 646,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -29,7 +29,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 517,
+		"id" : 647,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -59,7 +59,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 518,
+		"id" : 648,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -85,40 +85,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 519,
-		"is_active" : false,
-		"is_validated" : false,
-		"item_conditions" : 
-		[
-			{
-				"condition" : "AtLeast",
-				"flags" : 
-				[
-					"silk"
-				],
-				"item_type" : "CLOTH",
-				"min_dimension" : 10000,
-				"value" : 10
-			},
-			{
-				"condition" : "AtMost",
-				"item_subtype" : "ITEM_ARMOR_CLOAK",
-				"item_type" : "ARMOR",
-				"value" : 10
-			}
-		],
-		"item_subtype" : "ITEM_ARMOR_CLOAK",
-		"job" : "MakeArmor",
-		"material_category" : 
-		[
-			"silk"
-		]
-	},
-	{
-		"amount_left" : 1,
-		"amount_total" : 1,
-		"frequency" : "Daily",
-		"id" : 521,
+		"id" : 649,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -151,7 +118,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 522,
+		"id" : 650,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -184,7 +151,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 523,
+		"id" : 651,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -217,7 +184,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 524,
+		"id" : 652,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -250,7 +217,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 525,
+		"id" : 653,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -283,7 +250,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 526,
+		"id" : 654,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -316,7 +283,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 527,
+		"id" : 655,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -349,7 +316,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 529,
+		"id" : 656,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -382,7 +349,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 534,
+		"id" : 657,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -416,7 +383,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 530,
+		"id" : 658,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -452,7 +419,7 @@
 		"amount_left" : 50,
 		"amount_total" : 50,
 		"frequency" : "Daily",
-		"id" : 535,
+		"id" : 659,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -480,7 +447,7 @@
 		"amount_left" : 50,
 		"amount_total" : 50,
 		"frequency" : "Daily",
-		"id" : 536,
+		"id" : 660,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -508,7 +475,41 @@
 		"amount_left" : 50,
 		"amount_total" : 50,
 		"frequency" : "Daily",
-		"id" : 537,
+		"id" : 661,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_AMMO_BOLTS",
+				"item_type" : "AMMO",
+				"material" : "INORGANIC:IRON",
+				"value" : 300
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:IRON",
+				"min_dimension" : 150,
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_AMMO_BOLTS",
+		"job" : "MakeAmmo",
+		"material" : "INORGANIC:IRON"
+	},
+	{
+		"amount_left" : 50,
+		"amount_total" : 50,
+		"frequency" : "Daily",
+		"id" : 662,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -533,10 +534,44 @@
 		"material" : "INORGANIC:BISMUTH_BRONZE"
 	},
 	{
+		"amount_left" : 50,
+		"amount_total" : 50,
+		"frequency" : "Daily",
+		"id" : 663,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_AMMO_BOLTS",
+				"item_type" : "AMMO",
+				"material" : "INORGANIC:STEEL",
+				"value" : 300
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:STEEL",
+				"min_dimension" : 150,
+				"value" : 30
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_AMMO_BOLTS",
+		"job" : "MakeAmmo",
+		"material" : "INORGANIC:STEEL"
+	},
+	{
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 538,
+		"id" : 664,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -562,7 +597,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 539,
+		"id" : 665,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -579,6 +614,34 @@
 			}
 		],
 		"job" : "ConstructSplint",
+		"material_category" : 
+		[
+			"wood"
+		]
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Daily",
+		"id" : 666,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_WEAPON_SWORD_SHORT_TRAINING",
+				"item_type" : "WEAPON",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "WOOD",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_WEAPON_SWORD_SHORT_TRAINING",
+		"job" : "MakeWeapon",
 		"material_category" : 
 		[
 			"wood"
