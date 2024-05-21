@@ -3,7 +3,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 646,
+		"id" : 934,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -29,7 +29,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 647,
+		"id" : 935,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -59,7 +59,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 648,
+		"id" : 936,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -85,7 +85,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 649,
+		"id" : 937,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -118,7 +118,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 650,
+		"id" : 938,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -151,7 +151,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 651,
+		"id" : 939,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -184,7 +184,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 652,
+		"id" : 940,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -217,7 +217,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 653,
+		"id" : 941,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -250,7 +250,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 654,
+		"id" : 942,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -283,7 +283,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 655,
+		"id" : 943,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -316,7 +316,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 656,
+		"id" : 944,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -349,7 +349,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 657,
+		"id" : 945,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -383,7 +383,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 658,
+		"id" : 946,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -416,10 +416,10 @@
 		"material" : "INORGANIC:COPPER"
 	},
 	{
-		"amount_left" : 50,
-		"amount_total" : 50,
+		"amount_left" : 10,
+		"amount_total" : 10,
 		"frequency" : "Daily",
-		"id" : 659,
+		"id" : 947,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -444,10 +444,10 @@
 		"material" : "INORGANIC:BRONZE"
 	},
 	{
-		"amount_left" : 50,
-		"amount_total" : 50,
+		"amount_left" : 10,
+		"amount_total" : 10,
 		"frequency" : "Daily",
-		"id" : 660,
+		"id" : 948,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -472,10 +472,10 @@
 		"material" : "INORGANIC:COPPER"
 	},
 	{
-		"amount_left" : 50,
-		"amount_total" : 50,
+		"amount_left" : 10,
+		"amount_total" : 10,
 		"frequency" : "Daily",
-		"id" : 661,
+		"id" : 949,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -506,10 +506,10 @@
 		"material" : "INORGANIC:IRON"
 	},
 	{
-		"amount_left" : 50,
-		"amount_total" : 50,
+		"amount_left" : 10,
+		"amount_total" : 10,
 		"frequency" : "Daily",
-		"id" : 662,
+		"id" : 950,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -534,10 +534,10 @@
 		"material" : "INORGANIC:BISMUTH_BRONZE"
 	},
 	{
-		"amount_left" : 50,
-		"amount_total" : 50,
+		"amount_left" : 10,
+		"amount_total" : 10,
 		"frequency" : "Daily",
-		"id" : 663,
+		"id" : 951,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -571,7 +571,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 664,
+		"id" : 952,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -597,7 +597,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 665,
+		"id" : 953,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -623,7 +623,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 666,
+		"id" : 954,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -646,5 +646,39 @@
 		[
 			"wood"
 		]
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 955,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_subtype" : "ITEM_TRAPCOMP_GIANTAXEBLADE",
+				"item_type" : "TRAPCOMP",
+				"material" : "INORGANIC:IRON",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "INORGANIC:IRON",
+				"min_dimension" : 150,
+				"value" : 50
+			},
+			{
+				"condition" : "GreaterThan",
+				"item_type" : "BAR",
+				"material" : "COAL",
+				"value" : 10
+			}
+		],
+		"item_subtype" : "ITEM_TRAPCOMP_GIANTAXEBLADE",
+		"job" : "MakeTrapComponent",
+		"material" : "INORGANIC:IRON"
 	}
 ]

@@ -1,11 +1,11 @@
 [
 	{
-		"amount_left" : 1,
-		"amount_total" : 1,
+		"amount_left" : 10,
+		"amount_total" : 10,
 		"frequency" : "Daily",
-		"id" : 398,
-		"is_active" : false,
-		"is_validated" : false,
+		"id" : 667,
+		"is_active" : true,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -23,7 +23,7 @@
 				"condition" : "LessThan",
 				"item_type" : "BLOCKS",
 				"material" : "INORGANIC",
-				"value" : 100
+				"value" : 200
 			}
 		],
 		"job" : "ConstructBlocks",
@@ -33,9 +33,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 399,
-		"is_active" : false,
-		"is_validated" : false,
+		"id" : 668,
+		"is_active" : true,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -62,9 +62,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 400,
-		"is_active" : false,
-		"is_validated" : false,
+		"id" : 669,
+		"is_active" : true,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -91,9 +91,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 401,
+		"id" : 670,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -120,9 +120,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 402,
+		"id" : 671,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -149,9 +149,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 403,
+		"id" : 672,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -178,9 +178,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 404,
+		"id" : 673,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -207,9 +207,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 405,
+		"id" : 674,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -236,9 +236,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 406,
+		"id" : 675,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -265,9 +265,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 407,
+		"id" : 676,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -294,9 +294,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 408,
+		"id" : 677,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -325,9 +325,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 409,
+		"id" : 678,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -356,7 +356,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 410,
+		"id" : 679,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -392,7 +392,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 411,
+		"id" : 680,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -426,7 +426,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 412,
+		"id" : 681,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -462,7 +462,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 413,
+		"id" : 682,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -492,9 +492,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 414,
+		"id" : 683,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -534,9 +534,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 415,
+		"id" : 684,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -576,9 +576,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 416,
-		"is_active" : false,
-		"is_validated" : false,
+		"id" : 685,
+		"is_active" : true,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -608,7 +608,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 417,
+		"id" : 686,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -644,7 +644,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 418,
+		"id" : 687,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -680,9 +680,9 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 419,
+		"id" : 688,
 		"is_active" : false,
-		"is_validated" : false,
+		"is_validated" : true,
 		"item_conditions" : 
 		[
 			{
@@ -706,6 +706,74 @@
 		],
 		"item_subtype" : "ITEM_TOOL_PEDESTAL",
 		"job" : "MakeTool",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 689,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "WEAPONRACK",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"job" : "ConstructWeaponRack",
+		"material" : "INORGANIC"
+	},
+	{
+		"amount_left" : 2,
+		"amount_total" : 2,
+		"frequency" : "Daily",
+		"id" : 690,
+		"is_active" : false,
+		"is_validated" : false,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "ARMORSTAND",
+				"material" : "INORGANIC",
+				"value" : 10
+			},
+			{
+				"condition" : "GreaterThan",
+				"flags" : 
+				[
+					"non_economic",
+					"hard"
+				],
+				"item_type" : "BOULDER",
+				"material" : "INORGANIC",
+				"value" : 10
+			}
+		],
+		"job" : "ConstructArmorStand",
 		"material" : "INORGANIC"
 	}
 ]
