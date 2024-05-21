@@ -1,7 +1,7 @@
 {
 	"commands": {
-		"agitation-rebalance": {
-			"autostart": true
+		"adamantine-cloth-wear": {
+			"autostart": false
 		},
 		"autobutcher": {
 			"autostart": true
@@ -42,20 +42,47 @@
 		"autoslab": {
 			"autostart": true
 		},
-		"ban-cooking all": {
-			"autostart": true
-		},
 		"cleanowned": {
 			"autostart": true
 		},
-		"combine": {
-			"autostart": true
+		"craft-age-wear": {
+			"autostart": false
 		},
-		"dwarfvet": {
-			"autostart": true
+		"eggs-fertile": {
+			"autostart": false
 		},
-		"fast-heat": {
-			"autostart": true
+		"fix/blood-del": {
+			"autostart": false
+		},
+		"fix/dead-units": {
+			"autostart": false
+		},
+		"fix/empty-wheelbarrows": {
+			"autostart": false
+		},
+		"fix/engravings": {
+			"autostart": false
+		},
+		"fix/general-strike": {
+			"autostart": false
+		},
+		"fix/noexert-exhaustion": {
+			"autostart": false
+		},
+		"fix/ownership": {
+			"autostart": false
+		},
+		"fix/protect-nicks": {
+			"autostart": false
+		},
+		"fix/stuck-instruments": {
+			"autostart": false
+		},
+		"fix/stuck-worship": {
+			"autostart": false
+		},
+		"flask-contents": {
+			"autostart": false
 		},
 		"gui/settings-manager load-standing-orders": {
 			"autostart": true
@@ -66,28 +93,28 @@
 		"hide-tutorials": {
 			"autostart": true
 		},
-		"light-aquifers-only": {
-			"autostart": true
-		},
 		"logistics enable autoretrain": {
 			"autostart": true
 		},
 		"nestboxes": {
 			"autostart": true
 		},
-		"orders-reevaluate": {
-			"autostart": true
-		},
 		"orders-sort": {
 			"autostart": true
+		},
+		"partial-items": {
+			"autostart": false
+		},
+		"preserve-tombs": {
+			"autostart": false
 		},
 		"prioritize": {
 			"autostart": true
 		},
-		"seedwatch": {
-			"autostart": true
+		"reaction-gloves": {
+			"autostart": false
 		},
-		"starvingdead": {
+		"seedwatch": {
 			"autostart": true
 		},
 		"suspendmanager": {
@@ -95,10 +122,11 @@
 		},
 		"tailor": {
 			"autostart": true
-		},
-		"work-now": {
-			"autostart": true
 		}
 	},
-	"preferences": []
+	"preferences": {
+		"HIDE_ARMOK_TOOLS": {
+			"val": true
+		}
+	}
 }
