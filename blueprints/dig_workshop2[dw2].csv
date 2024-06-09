@@ -1,10 +1,10 @@
-#dig label(dig)
-d,d,d,,d,d,d,,d,d,d
-d,d,d,,d,d,d,,d,d,d
-d,d,d,,d,d,d,,d,d,d
-,,,d,d,d,d,d
-d,d,d,,d,d,d,,d,d,d
-d,d,d,,d,d,d,,d,d,d
-d,d,d,,d,d,d,,d,d,d
-,,,d,d,d,d,d
-,,,,i,i,i
+#dig label(dig) start(6;9;on central stairs)
+d,d,d, ,d,d,d, ,d,d,d,#
+d,d,d, ,d,d,d, ,d,d,d,#
+d,d,d, ,d,d,d, ,d,d,d,#
+ , , ,d,d,d,d,d, , , ,#
+d,d,d, ,d,d,d, ,d,d,d,#
+d,d,d, ,d,d,d, ,d,d,d,#
+d,d,d, ,d,d,d, ,d,d,d,#
+ , , ,d,d,d,d,d, , , ,#
+ , , , ,i,i,i, , , , ,#
