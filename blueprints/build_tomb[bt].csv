@@ -1,19 +1,24 @@
-#dig label(smooth)
-#dig label(carve)
-#build label(construct)
-#build label(build) hidden()
-n,,n,,n,,n,,n,,n
-
-n,,n,,,,,,n,,n
-
-n,,n,,,,,,n,,n
-
-n,,n,,,,,,n,,n
-
-n,,n,,,,,,n,,n
-
-n,,n,,n,,n,,n,,n
-#place label(place) hidden()
-#meta label(build_place)
-/build
-/place
+#dig label(dig) start(6;6;on central stairs)
+d, ,d, ,d, ,d, ,d, ,d,#
+d,d,d,d,d,d,d,d,d,d,d,#
+d, ,d, ,d,d,d, ,d, ,d,#
+ , , , ,d,d,d, , , , ,#
+d, ,d,d,i,i,i,d,d, ,d,#
+d,d,d,d,i,i,i,d,d,d,d,#
+d, ,d,d,i,i,i,d,d, ,d,#
+ , , , ,d,d,d, , , , ,#
+d, ,d, ,d,d,d, ,d, ,d,#
+d,d,d,d,d,d,d,d,d,d,d,#
+d, ,d, ,d, ,d, ,d, ,d,#
+#build label(build) start(6;6;on central stairs)
+n, ,n, ,n, ,n, ,n, ,n,#
+ , , , , , , , , , , ,#
+n, ,n, , , , , ,n, ,n,#
+ , , , , , , , , , , ,#
+n, ,n, , , , , ,n, ,n,#
+ , , , , , , , , , , ,#
+n, ,n, , , , , ,n, ,n,#
+ , , , , , , , , , , ,#
+n, ,n, , , , , ,n, ,n,#
+ , , , , , , , , , , ,#
+n, ,n, ,n, ,n, ,n, ,n,#
