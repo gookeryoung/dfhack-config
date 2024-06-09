@@ -1,0 +1,19 @@
+#dig label(smooth)
+#dig label(carve)
+#build label(construct)
+#build label(build) hidden()
+n,,n,,n,,n,,n,,n
+
+n,,n,,,,,,n,,n
+
+n,,n,,,,,,n,,n
+
+n,,n,,,,,,n,,n
+
+n,,n,,,,,,n,,n
+
+n,,n,,n,,n,,n,,n
+#place label(place) hidden()
+#meta label(build_place)
+/build
+/place
