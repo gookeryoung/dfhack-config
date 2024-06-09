@@ -3,7 +3,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "OneTime",
-		"id" : 157,
+		"id" : 208,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -24,7 +24,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "OneTime",
-		"id" : 158,
+		"id" : 209,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -45,7 +45,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "OneTime",
-		"id" : 159,
+		"id" : 210,
 		"is_active" : true,
 		"is_validated" : true,
 		"job" : "ShearCreature"
@@ -54,7 +54,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 204,
+		"id" : 211,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -80,7 +80,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 205,
+		"id" : 212,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -112,7 +112,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 160,
+		"id" : 213,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -139,7 +139,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 161,
+		"id" : 214,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -165,7 +165,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 162,
+		"id" : 215,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -191,7 +191,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 163,
+		"id" : 216,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -213,7 +213,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 164,
+		"id" : 217,
 		"is_active" : false,
 		"is_validated" : false,
 		"item_conditions" : 
@@ -239,7 +239,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 165,
+		"id" : 218,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -271,7 +271,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 166,
+		"id" : 219,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -303,7 +303,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 167,
+		"id" : 220,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -335,7 +335,7 @@
 		"amount_left" : 1,
 		"amount_total" : 10,
 		"frequency" : "Daily",
-		"id" : 168,
+		"id" : 221,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -376,7 +376,7 @@
 		"amount_left" : 1,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 169,
+		"id" : 222,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -413,7 +413,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 170,
+		"id" : 223,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -450,7 +450,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 171,
+		"id" : 224,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -471,7 +471,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 172,
+		"id" : 225,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -506,7 +506,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 173,
+		"id" : 226,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -538,7 +538,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 174,
+		"id" : 227,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -569,7 +569,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 175,
+		"id" : 228,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -591,7 +591,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 176,
+		"id" : 229,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -623,7 +623,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 177,
+		"id" : 230,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -654,7 +654,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 178,
+		"id" : 231,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -687,7 +687,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 179,
+		"id" : 232,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -727,7 +727,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 180,
+		"id" : 233,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -753,7 +753,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 181,
+		"id" : 234,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -788,7 +788,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 182,
+		"id" : 235,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -823,7 +823,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 183,
+		"id" : 236,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -858,7 +858,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 184,
+		"id" : 237,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -888,7 +888,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 185,
+		"id" : 238,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -918,7 +918,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 186,
+		"id" : 239,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -953,7 +953,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 187,
+		"id" : 240,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -988,7 +988,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 188,
+		"id" : 241,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1023,7 +1023,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 189,
+		"id" : 242,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1042,7 +1042,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 190,
+		"id" : 243,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1064,7 +1064,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 191,
+		"id" : 244,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1100,7 +1100,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 192,
+		"id" : 245,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1142,7 +1142,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 193,
+		"id" : 246,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1179,7 +1179,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 194,
+		"id" : 247,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1202,7 +1202,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 195,
+		"id" : 248,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1226,7 +1226,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 196,
+		"id" : 249,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1260,7 +1260,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 197,
+		"id" : 250,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1289,7 +1289,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 198,
+		"id" : 251,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1318,39 +1318,7 @@
 		"amount_left" : 1,
 		"amount_total" : 1,
 		"frequency" : "Daily",
-		"id" : 199,
-		"is_active" : false,
-		"is_validated" : true,
-		"item_conditions" : 
-		[
-			{
-				"condition" : "LessThan",
-				"flags" : 
-				[
-					"empty"
-				],
-				"item_subtype" : "ITEM_TOOL_SCROLL_ROLLERS",
-				"item_type" : "TOOL",
-				"value" : 3
-			},
-			{
-				"condition" : "GreaterThan",
-				"item_type" : "WOOD",
-				"value" : 10
-			}
-		],
-		"item_subtype" : "ITEM_TOOL_SCROLL_ROLLERS",
-		"job" : "MakeTool",
-		"material_category" : 
-		[
-			"wood"
-		]
-	},
-	{
-		"amount_left" : 1,
-		"amount_total" : 1,
-		"frequency" : "Daily",
-		"id" : 200,
+		"id" : 253,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1382,37 +1350,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 201,
-		"is_active" : false,
-		"is_validated" : false,
-		"item_conditions" : 
-		[
-			{
-				"condition" : "LessThan",
-				"flags" : 
-				[
-					"empty"
-				],
-				"item_type" : "CAGE",
-				"value" : 10
-			},
-			{
-				"condition" : "GreaterThan",
-				"item_type" : "WOOD",
-				"value" : 10
-			}
-		],
-		"job" : "MakeCage",
-		"material_category" : 
-		[
-			"wood"
-		]
-	},
-	{
-		"amount_left" : 2,
-		"amount_total" : 2,
-		"frequency" : "Daily",
-		"id" : 202,
+		"id" : 255,
 		"is_active" : false,
 		"is_validated" : true,
 		"item_conditions" : 
@@ -1442,7 +1380,7 @@
 		"amount_left" : 2,
 		"amount_total" : 2,
 		"frequency" : "Daily",
-		"id" : 203,
+		"id" : 256,
 		"is_active" : true,
 		"is_validated" : true,
 		"item_conditions" : 
