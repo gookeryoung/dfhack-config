@@ -1,0 +1,26 @@
+#dig label(dig) start(6;12;on central point)
+d,d,d,d,d, ,d,d,d,d,d,#
+ , ,d, , , , , ,d, , ,#
+d,d,d,d,d, ,d,d,d,d,d,#
+ , ,d, , , , , ,d, , ,#
+d,d,d,d,d, ,d,d,d,d,d,#
+ , ,d, , , , , ,d, , ,#
+d,d,d,d,d, ,d,d,d,d,d,#
+ , ,d, , , , , ,d, , ,#
+d,d,d,d,d, ,d,d,d,d,d,#
+ , ,d, , , , , ,d, , ,#
+d,d,d,d,d, ,d,d,d,d,d,#
+ , ,d, , , , , ,d, , ,#
+#build label(build) start(6;12;on central point)
+b,d, ,d,b, ,b,d, ,d,b,#
+ , , , , , , , , , , ,#
+b,d, ,d,b, ,b,d, ,d,b,#
+ , , , , , , , , , , ,#
+b,d, ,d,b, ,b,d, ,d,b,#
+ , , , , , , , , , , ,#
+b,d, ,d,b, ,b,d, ,d,b,#
+ , , , , , , , , , , ,#
+b,d, ,d,b, ,b,d, ,d,b,#
+ , , , , , , , , , , ,#
+b,d, ,d,b, ,b,d, ,d,b,#
+ , , , , , , , , , , ,#
